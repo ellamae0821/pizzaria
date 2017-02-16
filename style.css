@@ -1,0 +1,13 @@
+
+
+.content1 {
+	color: white;
+	background-color: lightblue;
+	text-align: center;
+	padding-top: 170px;
+  	height: 850px;
+	background: #7887ab url('../PizzaHead.jpg') no-repeat center;
+	background-size: cover;
+
+}
+
